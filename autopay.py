@@ -3,7 +3,7 @@ import json
 import time
 import math
 
-PAY_PER_HUNDRED_RACES = 500000
+PAY_PER_HUNDRED_RACES = 1000000 # 1 Million because all the races have to be in the same session
 
 TEAM = "IBM" # IBM ON TOP
 TEAM_URL_ = f"https://www.nitrotype.com/api/v2/teams/{TEAM}"
