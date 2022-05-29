@@ -5,7 +5,7 @@ import math
 
 PAY_PER_HUNDRED_RACES = 500000
 
-TEAM = "NGRV2"
+TEAM = "IBM" # IBM ON TOP
 TEAM_URL_ = f"https://www.nitrotype.com/api/v2/teams/{TEAM}"
 
 PAY_PWD = "" # Do not share your Nitrotype Password with anyone.
